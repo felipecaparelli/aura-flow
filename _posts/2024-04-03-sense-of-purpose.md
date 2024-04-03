@@ -3,7 +3,7 @@ layout: post
 title: Sense of Purpose
 subtitle: Why was this project created?
 cover-img: /assets/img/why.jpg
-thumbnail-img: /assets/img/why.png
+thumbnail-img: /assets/img/why.jpg
 share-img: /assets/img/why.jpg
 tags: [purpose, project]
 author: Felipe Caparelli
